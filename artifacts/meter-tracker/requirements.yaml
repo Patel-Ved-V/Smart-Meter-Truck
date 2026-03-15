@@ -1,0 +1,11 @@
+packages:
+  "leaflet": "Map rendering for live truck tracking"
+  "react-leaflet": "React components for Leaflet maps"
+  "@types/leaflet": "Type definitions for Leaflet"
+  "framer-motion": "Animations and page transitions"
+  "date-fns": "Human-readable date formatting"
+  "lucide-react": "Beautiful icons"
+
+notes:
+  - Using @workspace/api-client-react for all API hooks as per monorepo setup.
+  - Map requires leaflet CSS to be imported.
